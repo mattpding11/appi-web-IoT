@@ -1,0 +1,57 @@
+.jumbotron {
+    height: 165px;
+  }
+
+  .card {
+    width: 15rem;
+    margin: 50px;
+    height: 300px;
+    cursor: pointer;
+  }
+
+   .card:hover{
+     background-color:#eeeeee ;
+     transition-duration: 0.7s;
+    -webkit-box-shadow: 0px 6px 8px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 8px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 8px -3px rgba(0,0,0,0.75);
+  }
+
+  .card-title {
+    margin-top: 40px;
+    color: #757575;
+  }
+
+  .card-text {
+    margin-top: 30px;
+    color: #757575;
+  }
+
+
+  .fas {
+    margin-top: 25px;
+    color: #2196f3;
+    font-size: 70px;
+  }
+
+  footer{
+    background-color: #424242;
+    color: white;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+
+body {
+  margin: 0;
+  margin-bottom: 60px;
+}
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+#logo{
+  width: 70px;
+  display: inline-block;
+}
