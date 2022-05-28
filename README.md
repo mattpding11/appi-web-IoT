@@ -1,7 +1,4 @@
-<a href="example.com" target="_blank">New Tab</a>
-
-[link name](www.example.com){:target="_blank"}
-
+<www.example.com>
 
 # Appi Web IoT con Arduino y Firebase
 
