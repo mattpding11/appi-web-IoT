@@ -1,7 +1,7 @@
 # Appi Web IoT con Arduino y Firebase
 
 Aplicación web de Internet de las cosas con Arduino y Firebase 
-
+sadsad
 Esta web pinta la lectura de los **sensores de Arduino** en la pantalla como se muestra a continuación, esto lo hace recuperando los valores que Arduino le envía a la base de datos de **Firebase de Google**
 ![imagen](https://res.cloudinary.com/drbotbbjb/image/upload/v1653715761/Screenshot_95_k8oc1u.png)
 
