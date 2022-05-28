@@ -1,5 +1,3 @@
-www.example.com
-
 # Appi Web IoT con Arduino y Firebase
 
 Aplicación web de Internet de las cosas con Arduino y Firebase 
