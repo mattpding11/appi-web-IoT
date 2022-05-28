@@ -1,4 +1,4 @@
-<www.example.com>
+www.example.com
 
 # Appi Web IoT con Arduino y Firebase
 
