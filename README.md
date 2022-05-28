@@ -1,5 +1,4 @@
 # Appi Web IoT con Arduino y Firebase
-<p>Several species of <mark>salamander</mark> inhabit the temperate rainforest of the Pacific Northwest.</p>
 
 Aplicación web de Internet de las cosas con Arduino y Firebase 
 
