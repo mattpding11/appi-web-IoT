@@ -1,3 +1,8 @@
+<a href="www.example.com" target="_blank">New Tab</a>
+
+[link name](www.example.com){:target="_blank"}
+
+
 # Appi Web IoT con Arduino y Firebase
 
 Aplicación web de Internet de las cosas con Arduino y Firebase 
