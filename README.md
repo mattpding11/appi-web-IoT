@@ -1,4 +1,4 @@
-<a href="www.example.com" target="_blank">New Tab</a>
+<a href="example.com" target="_blank">New Tab</a>
 
 [link name](www.example.com){:target="_blank"}
 
