@@ -17,3 +17,13 @@ En adición también se hizo una interfaz gráfica con **Python** y Arduino, el 
 Funciona gracias a una tarjeta **ESP8266** y compilándole código de **Arduino**, utilizar una tarjeta de Arduino es igualmente valido para probar.
 
 <mark>**Para ver el video de la aplicación funcionando dale [click aquí.](https://youtu.be/IPjW5yukF_M)**</mark>
+
+---
+
+### Contact
+ 
+🌐 Portafolio web: https://mattpding11.github.io/mateo 
+  
+🌐 LinkedIn: https://www.linkedin.com/in/mateo-pe%C3%B1aranda-diaz-fullstack-developer/
+  
+✉️ Correo: mateo_1999_7@outlook.es
